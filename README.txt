@@ -1,3 +1,5 @@
-#to update your existing VPS just run this script in your console
+**Script to update an existing VPS**
 
-wget https://schillingcoin.org/download/update_schillingcoin.sh && chmod 755 update_schillingcoin.sh && ./update_schillingcoin.sh
+to update your VPS just enter this line in your console and hit enter:
+
+`wget https://schillingcoin.org/download/update_schillingcoin.sh && chmod 755 update_schillingcoin.sh && ./update_schillingcoin.sh`
