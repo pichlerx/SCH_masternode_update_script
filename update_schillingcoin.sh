@@ -2,8 +2,8 @@
 
 cd 
 schillingcoin-cli stop
-wget https://schillingcoin.org/download/Schillingcoin-1.3.0.0-daemon_ubuntu_16.04.tar.gz
-tar -xvzf Schillingcoin-1.3.0.0-daemon_ubuntu_16.04.tar.gz
+wget http://www.schillingcoin.org/download/SCH_v2.0/SCH-2.0.0-ubuntu-daemon.tar.gz
+tar -xvzf SCH-2.0.0-ubuntu-daemon.tar.gz
 rm /usr/local/bin/schillingcoind && rm /usr/local/bin/schillingcoin-cli
 cp schillingcoin{d,-cli} /usr/local/bin
 schillingcoind &
