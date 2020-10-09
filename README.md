@@ -2,4 +2,4 @@
 
 to update your VPS just enter this line in your console and hit enter:
 
-`wget https://schillingcoin.org/download/update_schillingcoin.sh && chmod 755 update_schillingcoin.sh && ./update_schillingcoin.sh`
+`rm update_schillingcoin.sh && wget https://schillingcoin.org/download/update_schillingcoin.sh && chmod 755 update_schillingcoin.sh && ./update_schillingcoin.sh`
